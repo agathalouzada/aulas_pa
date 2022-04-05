@@ -30,3 +30,11 @@ media <- n2/4
 
 escreval("Olá ",nome)
 escreval("Voce tem",media," de media aritimetica")
+
+
+
+https://scratch.mit.edu/projects/671443993/ ex 1
+https://scratch.mit.edu/projects/671452336/ ex 3
+https://scratch.mit.edu/projects/671462147/ ex 4
+https://scratch.mit.edu/projects/671475084/ ex 5
+
