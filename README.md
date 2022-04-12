@@ -38,3 +38,5 @@ https://scratch.mit.edu/projects/671452336/ ex 3
 https://scratch.mit.edu/projects/671462147/ ex 4
 https://scratch.mit.edu/projects/671475084/ ex 5
 
+https://scratch.mit.edu/projects/674901475/ jogo com Fellipe Manaia
+
