@@ -1,0 +1,12 @@
+Algoritmo Quantidade de Peças
+     Entre com um valor para quantidade de peças
+     Entre com a quantidade de peças
+     Faça o total (vt) (vt) = qntd * valor)
+     Mostre o total
+FimAlgoritmo
+
+teste de mesa
+ valor    quantidade     total
+  10         3             30
+  18         2             36           
+     
