@@ -1,21 +1,25 @@
-algoritmo "ConverteDolar"
-// Função : converter um valor em reais para dólar com uma cotação do dia
+algoritmo "SomaQuadrados"
+// Função : somar o valor dos quadrados dos numeros dados
 // Autor : agatha louzada
 // Data : 03/05/2022
 // Seção de Declarações 
 var
-valor_reais,cotacao,valor_convertido: real
+n1,n2,n3,n4,soma:inteiro
 inicio
 // Dados De Entrada
-escreval("Digite a quantia em reais: ")
-leia(valor_reais)
-escreval("Digite a cotaçãp do dólar (em reais): ")
-leia(cotacao)
+escreval("Digite o primeiro numero: ")
+leia(n1)
+escreval("Digite o segundo numero: ")
+leia(n2)
+escreval("Digite o terceiro numero: ")
+leia(n3)
+escreval("Digite o quarto numero: ")
+leia(n4)
 
 // Processamento
-valor_convertido <- valor_reais/cotacao
+ soma <- (n1*n1)+(n2*n2)+(n3*n3)+(n4*n4)
 
 // Dados De Saída
-escreval("O valor convertido em dólares é U$$ ",valor_convertido)
+escreval("O valor da soma dos quadrados é: ",soma)
 
 fimalgoritmo

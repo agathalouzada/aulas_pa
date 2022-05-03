@@ -1,0 +1,16 @@
+Algoritmo SomaQuadrados
+        Entre com um valor para n1
+        Entre com um valor para n2
+        Entre com um valor para n3
+        Entre com um valor para n4
+        Faça (n1*n1)+(n2*n2)+(n3*n3)+(n4*n4) e atribua para soma 
+        Mostre soma
+FimAlgoritmo
+
+   teste de mesa
+
+n1   n2    n3     n4      soma
+2    4      6      8      (n1*n1)+(n2*n2)+(n3*n3)+(n4*n4)= 81
+5    10    20     30      (n1*n1)+(n2*n2)+(n3*n3)+(n4*n4)= 1425
+
+        
