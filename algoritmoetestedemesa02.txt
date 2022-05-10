@@ -1,0 +1,13 @@
+Algoritmo Valor consumidor
+	Entre com um valor para carro e atribua a carro
+	Faça carro * 0,45 + carro e atribua para imposto
+	Faça imposto * 0,28 + imposto e atribua para distribuicao
+	Mostre distribuicao
+FimAlgoritmo
+
+
+
+               Teste de Mesa
+carro	         imposto	distribuicao
+25000	          36250	            46400
+10000	          14500	            18560
